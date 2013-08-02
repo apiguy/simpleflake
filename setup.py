@@ -10,7 +10,7 @@ setup(
     url='https://github.com/malicustommade/simpleflake',
     version='0.1',
     packages=['simpleflake', ],
-    package_dir={'simpleflake': ''},
+    package_dir={'simpleflake': 'simpleflake'},
     license='MIT',
     long_description=long_description,
     classifiers=[
